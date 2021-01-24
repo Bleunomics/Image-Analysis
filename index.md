@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# [A Nuclei Image Analysis Survey](https://www.zooniverse.org/projects/gamer456148/classify-nuclei-an-image-analysis-survey)
 
-You can use the [editor on GitHub](https://github.com/Bleunomics/Image-Analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Intro ##
+*As seen on the project home page*  
+Currently, we want to focus on the tagging of Nuclei images as well as its slicing, in order to allow us to figure out certain patterns computationally. These patterns will then be inputted into a [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network) in order to create similar images and replications. We hope the results will help us look into developing tools in the field of biomolecular geometry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Expectations ##
+Currently, we are  trying to build out the GAN and potential data models or software based on the survey sentiment and results. Professionally labeled data *(outside this survey)* vs. the data curated [here](https://www.zooniverse.org/projects/gamer456148/classify-nuclei-an-image-analysis-survey/classify) may also be inputted into the final models. We aim to publish lots of the survey results openly, and work on tools derived from such data or results. Most of the data will likely be published in a preprint and/or open repositories.
 
-### Markdown
+## Datasets ##
+[Dataset #1](https://www.kaggle.com/sandhaya4u/histology-image-dataset?select=stage2_test_final)  
+[Dataset #2](https://www.kaggle.com/gnovis/nucleus)  
+[Dataset #3](https://www.kaggle.com/rangan2510/breast-cancer-histology-images-bach)  
+*All data was sourced through public datasets on [Kaggle](https://www.kaggle.com)*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Purpose of the Research ##
+Depending on how the classification models and survey results turn out, will allow us to further know the usage of the data given its quality score. We aim to utilize the data for data models, as well as building up a series of hypotheses on creating a Generative Adversarial Network that regenerates the most optimal results. We also want to begin development of the GAN, and see ways we may phase this out to something more advanced.
 
-```markdown
-Syntax highlighted code block
+### Further Information ###
+The results tab will include any results that have been published openly *(Visible once results/papers start getting released and as information comes through)*.
 
-# Header 1
-## Header 2
-### Header 3
+### Definitions ##
+**GAN** as in Generative Adversarial Network  
+**Survey** as in the classify workflow  
+**Professionally Labeled Data** as in repositories by academia or researchers  
+**Quality Score** as in the numerical quality of the data in regards to usability and insight
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bleunomics/Image-Analysis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![FieldGuide](https://raw.githubusercontent.com/Mentors4EDU/Images/master/NucleiFIeldGuide.png)](https://www.zooniverse.org/projects/gamer456148/classify-nuclei-an-image-analysis-survey)
