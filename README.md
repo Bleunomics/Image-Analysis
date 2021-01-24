@@ -1,4 +1,4 @@
-# A Nuclei Image Analysis Survey
+# [A Nuclei Image Analysis Survey](https://www.zooniverse.org/projects/gamer456148/classify-nuclei-an-image-analysis-survey)
 
 ## Intro ##
 *As seen on the project home page*  
@@ -23,4 +23,6 @@ The results tab will include any results that have been published openly *(Visib
 **GAN** as in Generative Adversarial Network  
 **Survey** as in the classify workflow  
 **Professionally Labeled Data** as in repositories by academia or researchers  
-**Quality Score** as in the numerical quality of the data in regards to usability and insight  
+**Quality Score** as in the numerical quality of the data in regards to usability and insight
+
+[![FieldGuide](https://raw.githubusercontent.com/Mentors4EDU/Images/master/NucleiFIeldGuide.png)](https://www.zooniverse.org/projects/gamer456148/classify-nuclei-an-image-analysis-survey)
