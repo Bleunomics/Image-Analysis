@@ -25,4 +25,7 @@ The results tab will include any results that have been published openly *(Visib
 **Professionally Labeled Data** as in repositories by academia or researchers  
 **Quality Score** as in the numerical quality of the data in regards to usability and insight
 
+**Regarding Publishing**
+Any research that our research team publishes that directly references this data, should be expected to be released in the "Research Tab" *(When Available)*. This includes preprints, journal entries or data repositories on places like Figshare, Sourceforge, and GitHub. This includes research whether it is in the form of a software tool or a literary review describing the results.
+
 [![FieldGuide](https://raw.githubusercontent.com/Mentors4EDU/Images/master/NucleiFIeldGuide.png)](https://www.zooniverse.org/projects/gamer456148/classify-nuclei-an-image-analysis-survey)
